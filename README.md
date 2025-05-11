@@ -1,2 +1,0 @@
-# COLLECTION
-Template for collections
