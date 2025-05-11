@@ -1,0 +1,41 @@
+{
+    "id": "vim_premium_t-shirt_oversize",
+    "header": "Футболка vim OVERSIZE",
+    "details": "Футболка oversize \"IDE Vim\" премиального качества из 95% хлопка (240 г/м²). Центральный принт с логотипом Vim окружён эволюцией Vi, внизу надпись \"Never Quit\" в духе редактора, а фон украшен паттерном из тильды и рамкой с хроникой развития Vim. Удобный oversize-крой, плотная ткань и культовый дизайн делают её идеальной для олдскулных разработчиков.",
+    "sizes": [
+        "S",
+        "L",
+        "XL",
+        "XXL"
+    ],
+    "colors": [
+        "#000000",
+        "#FFFFFF"
+    ],
+    "density": 240,
+    "materials": [
+        "хлопок",
+        "лайкра"
+    ],
+    "careInstructions": [
+        "стирать в воде до 30 С",
+        "гладить до 110 С",
+        "барабанная сушка запрещена",
+        "не отбеливать",
+        "горизонтальная сушка"
+    ],
+    "availability": "предзаказ",
+    "discount": 0,
+    "relatedProducts": [],
+    "collection": "IDE",
+    "model": "vim",
+    "price": 4900,
+    "tags": ["oversize", "premium"],
+    "image": "https://raw.githubusercontent.com/computer-science-brand/IDE/refs/heads/vim/products/vim_premium_t-shirt_oversize/vim_premium_t-shirt_oversize_1.png",
+    "images": [
+        "https://raw.githubusercontent.com/computer-science-brand/IDE/refs/heads/vim/products/vim_premium_t-shirt_oversize/vim_premium_t-shirt_oversize_1.png",
+        "https://raw.githubusercontent.com/computer-science-brand/IDE/refs/heads/vim/products/vim_premium_t-shirt_oversize/vim_premium_t-shirt_oversize_2.png",
+        "https://raw.githubusercontent.com/computer-science-brand/IDE/refs/heads/vim/products/vim_premium_t-shirt_oversize/vim_premium_t-shirt_oversize_3.png",
+        "https://raw.githubusercontent.com/computer-science-brand/IDE/refs/heads/vim/products/vim_premium_t-shirt_oversize/vim_premium_t-shirt_oversize_4.png"
+    ]
+}
